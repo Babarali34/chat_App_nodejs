@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    margin: 0 auto;
+    width: 50%;
+}
+.container form{
+    margin-top: 10px;
+}
+.container form input {
+     padding: 5px 0;
+     border: 1px solid indigo;
+     outline: none;
+     
+}
+
+.container form button{
+    padding: 8px 15px;
+    border: 0;
+    outline: 0;
+    background: indigo;
+    color: #Fff;
+    margin-left: 15px;
+}
+ul{
+    list-style: none;
+    
+
+}
+ul li{
+    padding: 5px 5px;
+    border: 1px solid;
+    margin: 2px ;
+    color: #111;
+    font-size: 22px;
+}
